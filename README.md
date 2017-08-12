@@ -9,7 +9,7 @@
 
 ## Options
 
-第一表头 | 第二表头
+选项 | 描述
 ------------ | -------------
 sectionSelector | section选择器（必选）
 navItemSelector | 导航项选择器（必选）
